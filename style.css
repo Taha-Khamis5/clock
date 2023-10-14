@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(94, 94, 94);
+    margin: 0;
+    text-align: center;
+}
+.clock {
+    text-align: center;
+    background-color: rgb(31, 52, 55);
+    padding-bottom: 50px;
+    padding-top: 5px;
+}
+.clock h1 {
+    color:white;
+    text-transform: uppercase;
+}
+p {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+button {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-weight: bold;
+    width: 150px;
+    height: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+.stop-watch div {
+    color: white;
+    font-size: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.stop-watch button {
+    font-size: 20px;
+}
